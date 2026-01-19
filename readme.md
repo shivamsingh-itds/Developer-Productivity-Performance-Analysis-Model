@@ -1,6 +1,6 @@
 # Developer Productivity Performance Analysis Model
 
-## 📌 Project Objective
+##  Project Objective
 
 The objective of this project is to analyze and predict **software developer task success** by studying how **work patterns, human factors, code quality metrics, and AI usage** influence overall developer performance.
 
@@ -19,7 +19,7 @@ This project aims to:
 5. Model Evaluation
 6. Model Deployment
 ---
-## 📊 Data Information
+##  Data Information
 
 The dataset contains information related to developer work behavior, human factors, and coding performance.  
 Each row represents a developer task instance.
